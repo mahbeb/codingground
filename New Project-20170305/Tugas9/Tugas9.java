@@ -1,6 +1,6 @@
 public class Tugas9{
 	public static void main(String[] args){
-		BiodataTgs9 b = new BiodataTgs9("Muhamad Mashudi");
+		Biodata9 b = new Biodata9("Fathul Mahbub");
 		b.Display();
 	}
 }
